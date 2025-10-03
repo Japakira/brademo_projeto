@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "937590169867",
+    "firebase_url": "https://tcc01-2e62b-default-rtdb.firebaseio.com",
+    "project_id": "tcc01-2e62b",
+    "storage_bucket": "tcc01-2e62b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937590169867:android:29b41ffd2d4adfd2d4820e",
+        "android_client_info": {
+          "package_name": "com.example.tcc01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa2bMGDqR1_F6NHnB-VHWSIujrr4AXaww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
